@@ -1,0 +1,8 @@
+permissions:
+  modify: maxplayers.modify
+  view: maxplayers.view
+messages:
+  kick: '&cThere are too many players online!'
+  view: '&amaxPlayers is currently set to &b%maxplayers%'
+  modify: '&aTo modify it, type &b/mp [int]'
+maxplayers: 300
