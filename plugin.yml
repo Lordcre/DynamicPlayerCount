@@ -3,5 +3,4 @@ main: net.oasis9.aeva.dynamicplayercount.DynamicPlayerCount
 version: 1
 commands:
   maxplayers:
-  mp:
-  dpc:
+    aliases: [mp, dpc]
